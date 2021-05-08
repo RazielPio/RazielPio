@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RazielPio
-- 👀 I’m interested in mechatronic enggeniering
+- 👀 I’m interested in mechatronic engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 raziel710@gmail.com 
